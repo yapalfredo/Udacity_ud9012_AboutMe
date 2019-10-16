@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Alfredo Yap</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+        Hi, my name is Al.
+        \n\nI love pork.
+        \n\nThe kind of eats dirty food and its own shit.
+        \n\nFun fact is that I look like a pork, a cute one of course.
+        \n\nAside from pork I love chicken and beef. Steak in medium rare.
+        \n\nI go to Instagram sometimes and enjoy watching chiefs cook different kinds of meat.
+        \n\nMy ultimate dream is to be able to try A5+ Wagyu Steak
+        \n\nI love fitness too but I love food more.
+        \n\nFood is love and I can never blame it for keep me out of weight because food is equal to happiness.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
